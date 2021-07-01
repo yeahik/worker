@@ -1,6 +1,6 @@
 FROM ubuntu:xenial
 
-ENV PORT    3000
+ENV PORT    10086
 
 ADD worker /worker
 ADD start /start
