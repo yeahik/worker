@@ -1,0 +1,10 @@
+{
+    "name": "WS",
+    "description": "deploy **** to heroku",
+    "keywords": ["wsp"],
+    "env": {
+    },
+    "website": "https://111111.online",
+    "repository": "https://github.com/yeahwu",
+    "stack": "container"
+}
